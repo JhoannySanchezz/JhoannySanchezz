@@ -20,7 +20,7 @@ const lenguages = [
 ## You can find me 🌍​:
 - [LinkedIn](https://www.linkedin.com/in/jhoanny-sanchez/)
 - [Instagram](https://www.instagram.com/jhoannysanchezz/)
-- [Mail](jhoanny.dev@gmail.com)
+- <a href= mailto:jhoanny.dev@gmail.com />Mail</a>
 
 
 ## <h2> Languages and Tools 🚀</h2>
