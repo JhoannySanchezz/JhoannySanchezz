@@ -1,5 +1,14 @@
 ## Hi there 👋
+```js
+const jhoaSanchez = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Linux],
+  tools: [React, Node, Sass]
+}
 
+
+
+```
 <!--
 **JhoannySanchezz/JhoannySanchezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
