@@ -1,6 +1,6 @@
 ## Hi, I'm Jhoa 🤗​👩🏻‍💻​
 
-![fondo git](https://github.com/user-attachments/assets/cda13d0d-6fd0-4ed4-86b4-4741fcbd14a8)
+![fondo git](https://github.com/user-attachments/assets/33202aea-2f07-4a1a-8497-af551fa67192)
 
 ## About me in code ✒️
 ```js
