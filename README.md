@@ -1,6 +1,6 @@
 ## Hi, I'm Jhoa 🤗​👩🏻‍💻​
 
-![1360627](https://github.com/user-attachments/assets/9df09682-3265-4406-bf56-05c91d9405b0)
+![Jhoanny Sánchez](https://github.com/user-attachments/assets/0c241a17-90da-4851-a27e-6ceaeb77ceee)
 
 ## About me in code ✒️
 ```js
