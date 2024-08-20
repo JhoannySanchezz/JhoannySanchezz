@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jhoa 👋👩‍💻
 
 ![luna](https://github.com/user-attachments/assets/6ad62957-dd22-4405-aa65-6e6b25064fc2)
 
