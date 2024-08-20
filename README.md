@@ -7,12 +7,20 @@
 const jhoaSanchez = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Linux],
-  tools: [React, Node, Sass]
+  tools: [React, Node, Sass],
+};
+const lenguages = [
+ {
+   English: "Basic",
+   Spanish: "Native",
 }
+];
+
 ```
 ## You can find me 🌍​:
 - [LinkedIn](https://www.linkedin.com/in/jhoanny-sanchez/)
-- [LinkedIn]
+- [Instagram](https://www.instagram.com/jhoannysanchezz/)
+- [Mail](jhoanny.dev@gmail.com)
 
 
 ## <h2> Languages and Tools 🚀</h2>
