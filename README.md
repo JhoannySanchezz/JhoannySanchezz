@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![luna](https://github.com/user-attachments/assets/6ad62957-dd22-4405-aa65-6e6b25064fc2)
+
 ```js
 const jhoaSanchez = {
   pronouns: "she" | "her",
