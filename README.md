@@ -11,7 +11,8 @@ const jhoaSanchez = {
 }
 ```
 ## You can find me 🌍​:
--[LinkedIn](https://www.linkedin.com/in/jhoanny-sanchez/)
+- [LinkedIn](https://www.linkedin.com/in/jhoanny-sanchez/)
+- [LinkedIn]
 
 
 ## <h2> Languages and Tools 🚀</h2>
