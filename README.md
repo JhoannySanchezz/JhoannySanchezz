@@ -7,7 +7,7 @@
 const jhoaSanchez = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Linux],
-  tools: [React, Node, Sass],
+  tools: [ Node, Sass],
 };
 const lenguages = [
  {
